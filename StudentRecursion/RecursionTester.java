@@ -5,7 +5,7 @@
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;
 
-public class recursionTester {
+public class RecursionTester {
 
 	/**
 	 * This method tests the singledigitmultiply method by running two numbers and comparing the result to the desired result.
